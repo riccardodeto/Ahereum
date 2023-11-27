@@ -1,0 +1,145 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\39346\\Desktop\\INGEGNERIA INFORMATICA\\LM Cybersecurity and Cloud\\1 ANNO\\SAPD\\todo_app_test\\contracts\\Lock.sol": {
+      "lastModificationDate": 1670061356167,
+      "contentHash": "ae66265769cc28ebdaa34881df95bc5e",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "C:\\Users\\39346\\Desktop\\INGEGNERIA INFORMATICA\\LM Cybersecurity and Cloud\\1 ANNO\\SAPD\\todo_app_test\\contracts\\TaskContract.sol": {
+      "lastModificationDate": 1670061356168,
+      "contentHash": "be29abd4c19da99cd4a01c774774a5bc",
+      "sourceName": "contracts/TaskContract.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "TodoContract"
+      ]
+    },
+    "C:\\Users\\39346\\Desktop\\INGEGNERIA INFORMATICA\\LM Cybersecurity and Cloud\\1 ANNO\\SAPD\\Ahereum\\contracts\\Lock.sol": {
+      "lastModificationDate": 1670061356167,
+      "contentHash": "ae66265769cc28ebdaa34881df95bc5e",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    },
+    "C:\\Users\\39346\\Desktop\\INGEGNERIA INFORMATICA\\LM Cybersecurity and Cloud\\1 ANNO\\SAPD\\Ahereum\\contracts\\TaskContract.sol": {
+      "lastModificationDate": 1670160970638,
+      "contentHash": "be29abd4c19da99cd4a01c774774a5bc",
+      "sourceName": "contracts/TaskContract.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "TodoContract"
+      ]
+    }
+  }
+}
